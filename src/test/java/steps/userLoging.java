@@ -46,6 +46,8 @@ public class userLoging extends amazonBase{
 	public void i_enterd_the_in_the_password_input_bar(String string) {
 		ap = new amazonHomepage(driver);
 		ap.AmazonBasics();
+		ap.AmazonBasics();
+		//titans
 	
 	}
 
